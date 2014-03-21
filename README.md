@@ -1,0 +1,4 @@
+ImageAndSoundEffects
+====================
+
+An interactive application that allows the user to explore images, sounds, filters, and windows. The program was written in Python; it uses Tkinter for the GUI and Pyaudio to play back the sounds. Pyaudio allows Portaudio to be used for Python instead of C. When the program is initially run it displays a default image for the user to play with by applying different filters and windows. The user can load a different image or sound instead. The user can see what the sound looks like or what an image sounds like. To create some variety the user can play with filters and windows. Some filters, such as the filters under "Convolve" provide some interesting visual and audio effects. Additionally, if the user likes the image or sound, he/she can save it to view or listen to later.
